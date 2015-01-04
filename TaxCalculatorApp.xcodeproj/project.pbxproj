@@ -81,12 +81,12 @@
 		EE82850D1A59D34E00D5F2C9 /* TaxCalculatorApp */ = {
 			isa = PBXGroup;
 			children = (
+				EE82851B1A59D34E00D5F2C9 /* Images.xcassets */,
 				EE8285121A59D34E00D5F2C9 /* AppDelegate.h */,
 				EE8285131A59D34E00D5F2C9 /* AppDelegate.m */,
 				EE8285151A59D34E00D5F2C9 /* ViewController.h */,
 				EE8285161A59D34E00D5F2C9 /* ViewController.m */,
 				EE8285181A59D34E00D5F2C9 /* Main.storyboard */,
-				EE82851B1A59D34E00D5F2C9 /* Images.xcassets */,
 				EE82851D1A59D34E00D5F2C9 /* LaunchScreen.xib */,
 				EE82850E1A59D34E00D5F2C9 /* Supporting Files */,
 			);
